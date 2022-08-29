@@ -58,5 +58,5 @@ Renderer arguments:
 
     ```python3 fall_detector.py -e```
 
-- Additionally display the skeleton in 3D
+- Additionally display the skeleton in 3D:
     ```python3 fall_detector.py -e -3 image```
