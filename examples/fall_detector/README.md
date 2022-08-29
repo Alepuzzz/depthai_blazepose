@@ -54,9 +54,10 @@ Renderer arguments:
 
 **Examples :**
 
-- Show only the camera visualization whit the fall detector working:\
+- Show only the camera visualization whit the fall detector working:
 
     ```python3 fall_detector.py -e```
 
-- Additionally display the skeleton in 3D:\
+- Additionally display the skeleton in 3D:
+
     ```python3 fall_detector.py -e -3 image```
