@@ -292,7 +292,7 @@ For more information on:
 
 |||
 |-|-|
-|[Fall detector](examples/fall_detector)  |<img src="examples/fall_detector/medias/fall_detector.gif" alt="Fall detector" width="200"/>|
+|[Fall detector](examples/fall_detection)  |<img src="examples/fall_detection/medias/fall_detection.gif" alt="Fall detection" width="200"/>|
 |[Semaphore alphabet](examples/semaphore_alphabet)  |<img src="examples/semaphore_alphabet/medias/semaphore.gif" alt="Sempahore alphabet" width="200"/>|
 
 ## Credits
